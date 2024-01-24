@@ -12,7 +12,7 @@
 @import "~bootstrap/scss/grid";
 // @import "~bootstrap/scss/modal";
 
-@import "~sass-rem/_rem.scss";
+// @import "~sass-rem/_rem.scss";
 
 // Наш сайт
 // @import "utils/libs";
@@ -20,8 +20,10 @@
 @import "utils/fonts";
 @import "utils/reset";
 
-@import "layouts/*";
-@import "components/*";
+@import "layouts/main";
+@import "components/icons";
+@import "components/type-icon";
+@import "components/works";
 
 
 
